@@ -46,7 +46,10 @@ object MenuShader : Module(
         SPACE("/assets/shaders/menu/space.fsh"),
         SPACE2("/assets/shaders/menu/space2.fsh"),
         STORM("/assets/shaders/menu/storm.fsh"),
-        TRIANGLE("/assets/shaders/menu/triangle.fsh")
+        SUSSY("/assets/shaders/menu/sussy.fsh"),
+        TRANS("/assets/shaders/menu/trans.fsh"),
+        TRIANGLE("/assets/shaders/menu/triangle.fsh"),
+        VAPOR("/assets/shaders/menu/vapor.fsh")
     }
 
     private const val VERTEX_SHADER = "/assets/shaders/menu/vert.vsh"
